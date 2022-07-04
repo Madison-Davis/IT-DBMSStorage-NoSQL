@@ -1,0 +1,866 @@
+[
+ {
+   "Commodity": "BARLEY",
+   "Year": 2021,
+   "AcresPlanted": "2,660,000",
+   "AcresHarvested": "1,948,000",
+   "ProductionDollars": "602,504,000",
+   "ProductionBu": "117,673,000",
+   "YieldBuPerAcre": 60.4
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2020,
+   "AcresPlanted": "2,726,000",
+   "AcresHarvested": "2,214,000",
+   "ProductionDollars": "788,036,000",
+   "ProductionBu": "170,813,000",
+   "YieldBuPerAcre": 77.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2019,
+   "AcresPlanted": "2,772,000",
+   "AcresHarvested": "2,221,000",
+   "ProductionDollars": "788,711,000",
+   "ProductionBu": "172,499,000",
+   "YieldBuPerAcre": 77.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2018,
+   "AcresPlanted": "2,548,000",
+   "AcresHarvested": "1,982,000",
+   "ProductionDollars": "697,598,000",
+   "ProductionBu": "153,527,000",
+   "YieldBuPerAcre": 77.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2017,
+   "AcresPlanted": "2,486,000",
+   "AcresHarvested": "1,962,000",
+   "ProductionDollars": "624,184,000",
+   "ProductionBu": "143,258,000",
+   "YieldBuPerAcre": 73
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2016,
+   "AcresPlanted": "3,059,000",
+   "AcresHarvested": "2,565,000",
+   "ProductionDollars": "949,876,000",
+   "ProductionBu": "199,914,000",
+   "YieldBuPerAcre": 77.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2015,
+   "AcresPlanted": "3,583,000",
+   "AcresHarvested": "3,158,000",
+   "ProductionDollars": "1,149,831,000",
+   "ProductionBu": "218,187,000",
+   "YieldBuPerAcre": 69.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2014,
+   "AcresPlanted": "3,031,000",
+   "AcresHarvested": "2,497,000",
+   "ProductionDollars": "914,955,000",
+   "ProductionBu": "181,542,000",
+   "YieldBuPerAcre": 72.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2013,
+   "AcresPlanted": "3,528,000",
+   "AcresHarvested": "3,040,000",
+   "ProductionDollars": "1,265,798,000",
+   "ProductionBu": "216,745,000",
+   "YieldBuPerAcre": 71.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2012,
+   "AcresPlanted": "3,660,000",
+   "AcresHarvested": "3,274,000",
+   "ProductionDollars": "1,371,381,000",
+   "ProductionBu": "218,990,000",
+   "YieldBuPerAcre": 66.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2011,
+   "AcresPlanted": "2,564,000",
+   "AcresHarvested": "2,241,000",
+   "ProductionDollars": "808,741,000",
+   "ProductionBu": "154,788,000",
+   "YieldBuPerAcre": 69.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2010,
+   "AcresPlanted": "2,872,000",
+   "AcresHarvested": "2,465,000",
+   "ProductionDollars": "691,573,000",
+   "ProductionBu": "180,241,000",
+   "YieldBuPerAcre": 73.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2009,
+   "AcresPlanted": "3,568,000",
+   "AcresHarvested": "3,114,000",
+   "ProductionDollars": "968,676,000",
+   "ProductionBu": "226,603,000",
+   "YieldBuPerAcre": 72.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2008,
+   "AcresPlanted": "4,239,000",
+   "AcresHarvested": "3,775,000",
+   "ProductionDollars": "1,253,452,000",
+   "ProductionBu": "239,072,000",
+   "YieldBuPerAcre": 63.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2007,
+   "AcresPlanted": "4,018,000",
+   "AcresHarvested": "3,502,000",
+   "ProductionDollars": "834,954,000",
+   "ProductionBu": "210,110,000",
+   "YieldBuPerAcre": 60
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2006,
+   "AcresPlanted": "3,452,000",
+   "AcresHarvested": "2,951,000",
+   "ProductionDollars": "498,691,000",
+   "ProductionBu": "180,165,000",
+   "YieldBuPerAcre": 61.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2005,
+   "AcresPlanted": "3,875,000",
+   "AcresHarvested": "3,269,000",
+   "ProductionDollars": "527,633,000",
+   "ProductionBu": "211,896,000",
+   "YieldBuPerAcre": 64.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2004,
+   "AcresPlanted": "4,527,000",
+   "AcresHarvested": "4,021,000",
+   "ProductionDollars": "698,184,000",
+   "ProductionBu": "279,743,000",
+   "YieldBuPerAcre": 69.6
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2003,
+   "AcresPlanted": "5,348,000",
+   "AcresHarvested": "4,727,000",
+   "ProductionDollars": "755,140,000",
+   "ProductionBu": "278,283,000",
+   "YieldBuPerAcre": 58.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2002,
+   "AcresPlanted": "5,008,000",
+   "AcresHarvested": "4,123,000",
+   "ProductionDollars": "605,635,000",
+   "ProductionBu": "226,906,000",
+   "YieldBuPerAcre": 55
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2001,
+   "AcresPlanted": "4,951,000",
+   "AcresHarvested": "4,273,000",
+   "ProductionDollars": "535,110,000",
+   "ProductionBu": "248,329,000",
+   "YieldBuPerAcre": 58.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 2000,
+   "AcresPlanted": "5,801,000",
+   "AcresHarvested": "5,200,000",
+   "ProductionDollars": "647,966,000",
+   "ProductionBu": "317,804,000",
+   "YieldBuPerAcre": 61.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1999,
+   "AcresPlanted": "4,983,000",
+   "AcresHarvested": "4,573,000",
+   "ProductionDollars": "578,425,000",
+   "ProductionBu": "271,996,000",
+   "YieldBuPerAcre": 59.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1998,
+   "AcresPlanted": "6,325,000",
+   "AcresHarvested": "5,854,000",
+   "ProductionDollars": "685,734,000",
+   "ProductionBu": "351,569,000",
+   "YieldBuPerAcre": 60.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1997,
+   "AcresPlanted": "6,706,000",
+   "AcresHarvested": "6,198,000",
+   "ProductionDollars": "861,620,000",
+   "ProductionBu": "359,878,000",
+   "YieldBuPerAcre": 58.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1996,
+   "AcresPlanted": "7,094,000",
+   "AcresHarvested": "6,707,000",
+   "ProductionDollars": "1,080,940,000",
+   "ProductionBu": "392,433,000",
+   "YieldBuPerAcre": 58.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1995,
+   "AcresPlanted": "6,689,000",
+   "AcresHarvested": "6,279,000",
+   "ProductionDollars": "1,028,183,000",
+   "ProductionBu": "359,376,000",
+   "YieldBuPerAcre": 57.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1994,
+   "AcresPlanted": "7,159,000",
+   "AcresHarvested": "6,667,000",
+   "ProductionDollars": "783,709,000",
+   "ProductionBu": "374,862,000",
+   "YieldBuPerAcre": 56.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1993,
+   "AcresPlanted": "7,786,000",
+   "AcresHarvested": "6,753,000",
+   "ProductionDollars": "812,889,000",
+   "ProductionBu": "398,041,000",
+   "YieldBuPerAcre": 58.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1992,
+   "AcresPlanted": "7,762,000",
+   "AcresHarvested": "7,285,000",
+   "ProductionDollars": "946,463,000",
+   "ProductionBu": "455,090,000",
+   "YieldBuPerAcre": 62.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1991,
+   "AcresPlanted": "8,941,000",
+   "AcresHarvested": "8,413,000",
+   "ProductionDollars": "996,542,000",
+   "ProductionBu": "464,326,000",
+   "YieldBuPerAcre": 55.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1990,
+   "AcresPlanted": "8,221,000",
+   "AcresHarvested": "7,529,000",
+   "ProductionDollars": "911,545,000",
+   "ProductionBu": "422,196,000",
+   "YieldBuPerAcre": 56.1
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1989,
+   "AcresPlanted": "9,125,000",
+   "AcresHarvested": "8,313,000",
+   "ProductionDollars": "968,180,000",
+   "ProductionBu": "404,203,000",
+   "YieldBuPerAcre": 48.6
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1988,
+   "AcresPlanted": "9,831,000",
+   "AcresHarvested": "7,636,000",
+   "ProductionDollars": "775,229,000",
+   "ProductionBu": "289,994,000",
+   "YieldBuPerAcre": 38
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1987,
+   "AcresPlanted": "10,929,000",
+   "AcresHarvested": "9,957,000",
+   "ProductionDollars": "967,008,000",
+   "ProductionBu": "521,499,000",
+   "YieldBuPerAcre": 52.4
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1986,
+   "AcresPlanted": "13,024,000",
+   "AcresHarvested": "11,974,000",
+   "ProductionDollars": "989,405,000",
+   "ProductionBu": "608,532,000",
+   "YieldBuPerAcre": 50.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1985,
+   "AcresPlanted": "13,139,000",
+   "AcresHarvested": "11,591,000",
+   "ProductionDollars": "1,130,022,000",
+   "ProductionBu": "590,213,000",
+   "YieldBuPerAcre": 50.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1984,
+   "AcresPlanted": "11,934,000",
+   "AcresHarvested": "11,218,000",
+   "ProductionDollars": "1,356,634,000",
+   "ProductionBu": "598,034,000",
+   "YieldBuPerAcre": 53.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1983,
+   "AcresPlanted": "10,411,000",
+   "AcresHarvested": "9,721,000",
+   "ProductionDollars": "1,269,991,000",
+   "ProductionBu": "508,269,000",
+   "YieldBuPerAcre": 52.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1982,
+   "AcresPlanted": "9,549,000",
+   "AcresHarvested": "9,013,000",
+   "ProductionDollars": "1,114,993,000",
+   "ProductionBu": "515,935,000",
+   "YieldBuPerAcre": 57.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1981,
+   "AcresPlanted": "9,618,000",
+   "AcresHarvested": "9,038,000",
+   "ProductionDollars": "1,166,532,000",
+   "ProductionBu": "473,512,000",
+   "YieldBuPerAcre": 52.4
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1980,
+   "AcresPlanted": "8,320,000",
+   "AcresHarvested": "7,260,000",
+   "ProductionDollars": "1,025,618,000",
+   "ProductionBu": "361,135,000",
+   "YieldBuPerAcre": 49.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1979,
+   "AcresPlanted": "8,116,000",
+   "AcresHarvested": "7,527,000",
+   "ProductionDollars": "880,392,000",
+   "ProductionBu": "383,201,000",
+   "YieldBuPerAcre": 50.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1978,
+   "AcresPlanted": "9,989,000",
+   "AcresHarvested": "9,248,000",
+   "ProductionDollars": "871,070,000",
+   "ProductionBu": "454,759,000",
+   "YieldBuPerAcre": 49.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1977,
+   "AcresPlanted": "10,778,000",
+   "AcresHarvested": "9,728,000",
+   "ProductionDollars": "760,043,000",
+   "ProductionBu": "427,784,000",
+   "YieldBuPerAcre": 44
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1976,
+   "AcresPlanted": "9,301,000",
+   "AcresHarvested": "8,439,000",
+   "ProductionDollars": "852,256,000",
+   "ProductionBu": "383,007,000",
+   "YieldBuPerAcre": 45.4
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1975,
+   "AcresPlanted": "9,373,000",
+   "AcresHarvested": "8,617,000",
+   "ProductionDollars": "905,923,000",
+   "ProductionBu": "379,162,000",
+   "YieldBuPerAcre": 44
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1974,
+   "AcresPlanted": "8,713,000",
+   "AcresHarvested": "7,930,000",
+   "ProductionDollars": "821,639,000",
+   "ProductionBu": "298,669,000",
+   "YieldBuPerAcre": 37.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1973,
+   "AcresPlanted": "11,045,000",
+   "AcresHarvested": "10,295,000",
+   "ProductionDollars": "881,569,000",
+   "ProductionBu": "417,434,000",
+   "YieldBuPerAcre": 40.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1972,
+   "AcresPlanted": "10,567,000",
+   "AcresHarvested": "9,645,000",
+   "ProductionDollars": "504,454,000",
+   "ProductionBu": "421,719,000",
+   "YieldBuPerAcre": 43.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1971,
+   "AcresPlanted": "11,061,000",
+   "AcresHarvested": "10,104,000",
+   "ProductionDollars": "457,558,000",
+   "ProductionBu": "462,423,000",
+   "YieldBuPerAcre": 45.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1970,
+   "AcresPlanted": "10,476,000",
+   "AcresHarvested": "9,712,000",
+   "ProductionDollars": "400,312,000",
+   "ProductionBu": "416,091,000",
+   "YieldBuPerAcre": 42.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1969,
+   "AcresPlanted": "10,291,000",
+   "AcresHarvested": "9,557,000",
+   "ProductionDollars": "377,878,000",
+   "ProductionBu": "427,055,000",
+   "YieldBuPerAcre": 44.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1968,
+   "AcresPlanted": "10,486,000",
+   "AcresHarvested": "9,732,000",
+   "ProductionDollars": "390,241,000",
+   "ProductionBu": "426,151,000",
+   "YieldBuPerAcre": 43.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1967,
+   "AcresPlanted": "10,077,000",
+   "AcresHarvested": "9,230,000",
+   "ProductionDollars": "374,394,000",
+   "ProductionBu": "373,745,000",
+   "YieldBuPerAcre": 40.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1966,
+   "AcresPlanted": "11,184,000",
+   "AcresHarvested": "10,250,000",
+   "ProductionDollars": "411,849,000",
+   "ProductionBu": "392,108,000",
+   "YieldBuPerAcre": 38.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1965,
+   "AcresPlanted": "10,123,000",
+   "AcresHarvested": "9,166,000",
+   "ProductionDollars": "399,575,000",
+   "ProductionBu": "393,055,000",
+   "YieldBuPerAcre": 42.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1964,
+   "AcresPlanted": "11,652,000",
+   "AcresHarvested": "10,277,000",
+   "ProductionDollars": "365,050,000",
+   "ProductionBu": "386,059,000",
+   "YieldBuPerAcre": 37.6
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1963,
+   "AcresPlanted": "13,452,000",
+   "AcresHarvested": "11,236,000",
+   "ProductionDollars": "350,020,000",
+   "ProductionBu": "392,833,000",
+   "YieldBuPerAcre": 35
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1962,
+   "AcresPlanted": "14,380,000",
+   "AcresHarvested": "12,214,000",
+   "ProductionDollars": "385,872,000",
+   "ProductionBu": "427,726,000",
+   "YieldBuPerAcre": 35
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1961,
+   "AcresPlanted": "15,623,000",
+   "AcresHarvested": "12,806,000",
+   "ProductionDollars": "376,112,000",
+   "ProductionBu": "392,441,000",
+   "YieldBuPerAcre": 30.6
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1960,
+   "AcresPlanted": "15,527,000",
+   "AcresHarvested": "13,856,000",
+   "ProductionDollars": "355,248,000",
+   "ProductionBu": "429,005,000",
+   "YieldBuPerAcre": 31
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1959,
+   "AcresPlanted": "16,766,000",
+   "AcresHarvested": "14,869,000",
+   "ProductionDollars": "357,584,000",
+   "ProductionBu": "420,203,000",
+   "YieldBuPerAcre": 28.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1958,
+   "AcresPlanted": "16,150,000",
+   "AcresHarvested": "14,791,000",
+   "ProductionDollars": "426,903,000",
+   "ProductionBu": "477,368,000",
+   "YieldBuPerAcre": 32.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1957,
+   "AcresPlanted": "16,398,000",
+   "AcresHarvested": "14,872,000",
+   "ProductionDollars": "389,461,000",
+   "ProductionBu": "442,761,000",
+   "YieldBuPerAcre": 29.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1956,
+   "AcresPlanted": "14,732,000",
+   "AcresHarvested": "12,852,000",
+   "ProductionDollars": "370,508,000",
+   "ProductionBu": "376,661,000",
+   "YieldBuPerAcre": 29.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1955,
+   "AcresPlanted": "16,293,000",
+   "AcresHarvested": "14,523,000",
+   "ProductionDollars": "369,753,000",
+   "ProductionBu": "403,065,000",
+   "YieldBuPerAcre": 27.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1954,
+   "AcresPlanted": "14,740,000",
+   "AcresHarvested": "13,370,000",
+   "ProductionDollars": "408,829,000",
+   "ProductionBu": "379,254,000",
+   "YieldBuPerAcre": 28.4
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1953,
+   "AcresPlanted": "9,615,000",
+   "AcresHarvested": "8,680,000",
+   "ProductionDollars": "283,778,000",
+   "ProductionBu": "246,723,000",
+   "YieldBuPerAcre": 28.4
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1952,
+   "AcresPlanted": "9,190,000",
+   "AcresHarvested": "8,236,000",
+   "ProductionDollars": "308,044,000",
+   "ProductionBu": "228,168,000",
+   "YieldBuPerAcre": 27.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1951,
+   "AcresPlanted": "10,790,000",
+   "AcresHarvested": "9,424,000",
+   "ProductionDollars": "319,754,000",
+   "ProductionBu": "257,213,000",
+   "YieldBuPerAcre": 27.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1950,
+   "AcresPlanted": "13,010,000",
+   "AcresHarvested": "11,155,000",
+   "ProductionDollars": "357,590,000",
+   "ProductionBu": "303,772,000",
+   "YieldBuPerAcre": 27.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1949,
+   "AcresPlanted": "11,132,000",
+   "AcresHarvested": "9,872,000",
+   "ProductionDollars": "246,293,000",
+   "ProductionBu": "237,071,000",
+   "YieldBuPerAcre": 24
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1948,
+   "AcresPlanted": "13,063,000",
+   "AcresHarvested": "11,905,000",
+   "ProductionDollars": "363,258,000",
+   "ProductionBu": "315,537,000",
+   "YieldBuPerAcre": 26.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1947,
+   "AcresPlanted": "11,981,000",
+   "AcresHarvested": "10,955,000",
+   "ProductionDollars": "478,852,000",
+   "ProductionBu": "281,868,000",
+   "YieldBuPerAcre": 25.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1946,
+   "AcresPlanted": "11,467,000",
+   "AcresHarvested": "10,380,000",
+   "ProductionDollars": "360,773,000",
+   "ProductionBu": "265,059,000",
+   "YieldBuPerAcre": 25.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1945,
+   "AcresPlanted": "11,745,000",
+   "AcresHarvested": "10,454,000",
+   "ProductionDollars": "271,662,000",
+   "ProductionBu": "266,994,000",
+   "YieldBuPerAcre": 25.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1944,
+   "AcresPlanted": "14,352,000",
+   "AcresHarvested": "12,301,000",
+   "ProductionDollars": "280,434,000",
+   "ProductionBu": "276,275,000",
+   "YieldBuPerAcre": 22.5
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1943,
+   "AcresPlanted": "17,474,000",
+   "AcresHarvested": "14,900,000",
+   "ProductionDollars": "319,871,000",
+   "ProductionBu": "322,913,000",
+   "YieldBuPerAcre": 21.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1942,
+   "AcresPlanted": "19,686,000",
+   "AcresHarvested": "16,958,000",
+   "ProductionDollars": "271,231,000",
+   "ProductionBu": "429,450,000",
+   "YieldBuPerAcre": 25.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1941,
+   "AcresPlanted": "15,857,000",
+   "AcresHarvested": "14,276,000",
+   "ProductionDollars": "191,741,000",
+   "ProductionBu": "362,568,000",
+   "YieldBuPerAcre": 25.4
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1940,
+   "AcresPlanted": "15,689,000",
+   "AcresHarvested": "13,525,000",
+   "ProductionDollars": "123,543,000",
+   "ProductionBu": "311,278,000",
+   "YieldBuPerAcre": 23
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1939,
+   "AcresPlanted": "15,513,000",
+   "AcresHarvested": "12,739,000",
+   "ProductionDollars": "112,541,000",
+   "ProductionBu": "278,193,000",
+   "YieldBuPerAcre": 21.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1938,
+   "AcresPlanted": "12,171,000",
+   "AcresHarvested": "10,610,000",
+   "ProductionDollars": "94,336,000",
+   "ProductionBu": "256,620,000",
+   "YieldBuPerAcre": 24.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1937,
+   "AcresPlanted": "12,346,000",
+   "AcresHarvested": "9,969,000",
+   "ProductionDollars": "120,257,000",
+   "ProductionBu": "221,889,000",
+   "YieldBuPerAcre": 22.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1936,
+   "AcresPlanted": "12,837,000",
+   "AcresHarvested": "8,329,000",
+   "ProductionDollars": "115,461,000",
+   "ProductionBu": "147,740,000",
+   "YieldBuPerAcre": 17.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1935,
+   "AcresPlanted": "13,956,000",
+   "AcresHarvested": "12,436,000",
+   "ProductionDollars": "109,372,000",
+   "ProductionBu": "288,667,000",
+   "YieldBuPerAcre": 23.2
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1934,
+   "AcresPlanted": "12,024,000",
+   "AcresHarvested": "6,577,000",
+   "ProductionDollars": "80,521,000",
+   "ProductionBu": "117,390,000",
+   "YieldBuPerAcre": 17.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1933,
+   "AcresPlanted": "14,200,000",
+   "AcresHarvested": "9,641,000",
+   "ProductionDollars": "66,349,000",
+   "ProductionBu": "152,839,000",
+   "YieldBuPerAcre": 15.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1932,
+   "AcresPlanted": "14,555,000",
+   "AcresHarvested": "13,206,000",
+   "ProductionDollars": "66,178,000",
+   "ProductionBu": "299,394,000",
+   "YieldBuPerAcre": 22.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1931,
+   "AcresPlanted": "13,820,000",
+   "AcresHarvested": "11,181,000",
+   "ProductionDollars": "65,616,000",
+   "ProductionBu": "200,280,000",
+   "YieldBuPerAcre": 17.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1930,
+   "AcresPlanted": "13,581,000",
+   "AcresHarvested": "12,629,000",
+   "ProductionDollars": "122,178,000",
+   "ProductionBu": "301,619,000",
+   "YieldBuPerAcre": 23.9
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1929,
+   "AcresPlanted": "14,703,000",
+   "AcresHarvested": "13,564,000",
+   "ProductionDollars": "151,134,000",
+   "ProductionBu": "280,637,000",
+   "YieldBuPerAcre": 20.7
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1928,
+   "AcresPlanted": "12,828,000",
+   "AcresHarvested": "12,735,000",
+   "ProductionDollars": "186,730,000",
+   "ProductionBu": "328,351,000",
+   "YieldBuPerAcre": 25.8
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1927,
+   "AcresPlanted": "9,513,000",
+   "AcresHarvested": "9,465,000",
+   "ProductionDollars": "164,751,000",
+   "ProductionBu": "239,071,000",
+   "YieldBuPerAcre": 25.3
+ },
+ {
+   "Commodity": "BARLEY",
+   "Year": 1926,
+   "AcresPlanted": "8,796,000",
+   "AcresHarvested": "7,917,000",
+   "ProductionDollars": "96,093,000",
+   "ProductionBu": "166,030,000",
+   "YieldBuPerAcre": 21
+ }
+]
